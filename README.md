@@ -19,6 +19,9 @@
   <tr>
     <td>Ejecutar comando 'php artisan key:generate'</td>
   </tr>
+     <tr>
+    <td>Ejecutar comando 'php artisan storage:link'</td>
+  </tr>
       <tr>
     <td>crear bd crudpelicula en phpmyadmin </td>
   </tr>
@@ -29,7 +32,7 @@
     <td>Importar query del archivo 'BD' en phpmyadmin</td>
   </tr>
                   <tr>
-    <td>Ejecutar comando 'php artisan serve</td>
+    <td>Ejecutar comando 'php artisan serve'</td>
   </tr>
                   <tr>
                       <td>ir a link del proyecto mediante el servidor laravel</td>
